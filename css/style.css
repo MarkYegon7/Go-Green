@@ -174,3 +174,9 @@ span {
 #south {
     color: red;
 }
+
+#prep,
+#prep1,
+#prep2 {
+    display: none;
+}
