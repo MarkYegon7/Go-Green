@@ -1,4 +1,4 @@
-function dev(e, i, f, g, h, j) {
+function dev(e, i) {
 
     $(document).ready(function() {
         e.click(function() {
@@ -20,51 +20,6 @@ dev($(".tz"), $("#image4"));
 dev($(".central"), $("#image5"));
 dev($(".dr-co"), $("#image6"));
 
-$(document).ready(function() {
-    i.click(function() {
-        i.toggle();
-        p.toggle();
-    });
-    p.click(function() {
-        i.toggle();
-        p.toggle();
-    });
-});
-}
-
-dev($("#south"), $("#imageon"));
-
-
-
-function dev(i, p) {
-
-    $(document).ready(function() {
-        i.click(function() {
-            i.toggle();
-            p.toggle();
-        });
-        p.click(function() {
-            i.toggle();
-            p.toggle();
-        });
-    });
-}
-
-dev($("#west2"), $("#imageon2"));
-
-
-function dev(i, p) {
-
-    $(document).ready(function() {
-        i.click(function() {
-            i.toggle();
-            p.toggle();
-        });
-        p.click(function() {
-            i.toggle();
-            p.toggle();
-        });
-    });
-}
-
-dev($("#north2"), $("#imageon3"));
+dev($("#south"), $("#prep"));
+dev($("#west2"), $("#prep1"));
+dev($("#north2"), $("#prep2"));
