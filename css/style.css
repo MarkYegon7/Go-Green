@@ -1,0 +1,182 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.menu-flex {
+    display: flex;
+}
+
+.title {
+    background-color: floralwhite;
+    color: green;
+    text-align: center;
+    padding: 10vh;
+}
+
+.info {
+    color: red;
+}
+
+.intro {
+    background-color: teal;
+    color: white
+}
+
+#image1 {
+    display: none;
+}
+
+#eastA,
+.central {
+    color: red;
+    font-size: larger;
+    font-size: 3rem;
+}
+
+#carouselExampleDark {
+    height: 50vh;
+}
+
+.kenyat,
+.dr-co {
+    color: blue;
+    font-weight: bolder;
+    font-size: 2rem;
+}
+
+#image2,
+#image5,
+#image6 {
+    display: none;
+}
+
+.keyint,
+.centinfo,
+.drinfo {
+    background-color: teal;
+    color: white;
+    font-weight: bold;
+}
+
+.ug,
+.tz {
+    color: blue;
+    font-weight: bolder;
+    font-size: larger;
+    font-size: 2rem;
+}
+
+#image3 {
+    display: none;
+}
+
+.uginfo,
+.tzinfo {
+    background-color: teal;
+    color: white;
+    font-weight: bold;
+}
+
+#image4 {
+    display: none;
+}
+
+span {
+    width: -40%;
+}
+
+.region1 {
+    background-color: lightblue;
+}
+
+.region1 p {
+    background-color: rgb(0, 128, 122);
+    font-size: 20px;
+}
+
+.country1 {
+    background-color: lightblue;
+}
+
+.country1 p {
+    background-color: rgb(0, 128, 122);
+    font-size: 20px;
+    color: papayawhip;
+}
+
+.country1 img {
+    display: inline-block;
+}
+
+.country2 {
+    background-color: lightblue;
+}
+
+.country2 p {
+    font-size: 20px;
+    background-color: rgb(0, 128, 122);
+}
+
+.west1 {
+    background-color: lightblue;
+}
+
+.west1 p {
+    background-color: rgb(0, 128, 122);
+    font-size: 20px
+}
+
+.africa1 {
+    background-color: lightblue;
+}
+
+.africa1 p {
+    background-color: rgb(0, 128, 122);
+    font-size: 20px;
+}
+
+.africa2 {
+    background-color: lightblue;
+}
+
+.africa2 p {
+    background-color: rgb(0, 128, 122);
+    font-size: 20px;
+}
+
+.north1 {
+    background-color: lightblue;
+}
+
+.north1 p {
+    background-color: rgb(0, 128, 122);
+    font-size: 20px;
+}
+
+.desert1 {
+    background-color: lightblue;
+}
+
+.desert1 p {
+    background-color: rgb(0, 128, 122);
+    font-size: 20px;
+}
+
+.desert2 {
+    background-color: lightblue;
+}
+
+.desert2 p {
+    background-color: rgb(0, 128, 122);
+    font-size: 20px;
+}
+
+#south {
+    color: red;
+}
+
+#prep,
+#prep1,
+#prep2 {
+    display: none;
+}
